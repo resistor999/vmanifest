@@ -132,6 +132,7 @@
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="st" />
   <project path="packages/apps/Glimpse" name="packages_apps_Glimpse" remote="st" />
   <project path="packages/apps/GmsCompat" name="packages_apps_GmsCompat" remote="st" />
+  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="st" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="st" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="st" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="st" />
