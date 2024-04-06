@@ -128,6 +128,7 @@
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="st" />
   <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="st" />
   <project path="packages/apps/Etar" name="packages_apps_Etar" remote="st" />
+  <project path="packages/apps/LogViewer" name="packages_apps_LogViewer" remote="st" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="st" />
   <project path="packages/apps/Glimpse" name="packages_apps_Glimpse" remote="st" />
   <project path="packages/apps/GmsCompat" name="packages_apps_GmsCompat" remote="st" />
