@@ -122,6 +122,7 @@
   <!-- Packages -->
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="st" />
   <project path="packages/apps/AppCompatConfig" name="packages_apps_AppCompatConfig" remote="st" />
+  <project path="packages/apps/BtHelper" name="packages_apps_BtHelper" remote="st" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="st" />
   <project path="packages/apps/Covers" name="packages_apps_Covers" remote="vos" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="vos" />
