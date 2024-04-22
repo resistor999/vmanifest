@@ -64,6 +64,7 @@
   <project path="external/mksh" name="external_mksh" remote="vos" />
   <project path="external/tinycompress" name="external_tinycompress" remote="vos" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="st" />
+  <project path="external/seedvault" name="external_seedvault" remote="st" />
 
   <!-- Framework -->
   <project path="frameworks/av" name="frameworks_av" remote="st" />
